@@ -8,7 +8,7 @@ Ask questions. Engage the interviewer. Discuss the tradeoffs.
 
 We will touch on some key concepts in this chapter, but recognize it's not really about memorizing these concepts. Yes, understanding some big components of system design can be useful, but it's much more about the process, but it's much more about the process you take. There are good solutions and bad solutions. There is no perfect solution.
 
-[Next: Handling the questions](./handling-the-questions.md)
+[Next page: Handling the questions](./handling-the-questions.md)
 
 <br>
 
@@ -22,7 +22,7 @@ Mengajukan pertanyaan. Libatkan pewawancara. Diskusikan timbal baliknya.
 
 Kita akan menyentuh beberapa konsep kunci dalam bab ini, tetapi menyadari bahwa ini bukan tentang menghafal konsep-konsep ini. Ya, memahami beberapa komponen besar desain sistem dapat bermanfaat, tetapi ini lebih banyak tentang prosesnya, tetapi lebih tentang proses yang Anda ambil. Ada solusi baik dan solusi buruk. Tidak ada solusi yang sempurna.
 
-[Berikutnya: Menangani pertanyaan](./handling-the-questions.md)
+[Halaman berikutnya: Menangani pertanyaan](./handling-the-questions.md)
 
 References:
 - [cracking the coding interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
