@@ -1,4 +1,4 @@
-# System Design and Scalability
+# System Design & Scalability
 Despite how intimidating they seem, scalability questions can be among the easiest questions. These are no "gotchas", no tricks, and no fancy algorithms (at least not usually). What trips up many people is that they believe there's something "magic" to these problems (some hidden bit of knowledge).
 
 it's not like that. These questions are simply designed to see how you would perform in the real world. if you were asked by your manager to design some system, what would you do?
