@@ -12,7 +12,7 @@ We will touch on some key concepts in this chapter, but recognize it's not reall
 
 <br>
 
-# Desain Sistem dan Skalabilitas
+# Desain Sistem & Skalabilitas
 Terlepas dari betapa menakutkannya mereka, pertanyaan skalabilitas bisa menjadi salah satu pertanyaan termudah. Ini bukan "gotcha", tidak ada trik, dan tidak ada algoritme mewah (setidaknya biasanya tidak). Apa yang membuat banyak orang tersandung adalah bahwa mereka percaya ada sesuatu yang "ajaib" untuk masalah ini (beberapa pengetahuan tersembunyi).
 
 tidak seperti itu. Pertanyaan-pertanyaan ini hanya dirancang untuk melihat bagaimana Anda akan tampil di dunia nyata. jika Anda diminta oleh manajer Anda untuk merancang beberapa sistem, apa yang akan Anda lakukan?
